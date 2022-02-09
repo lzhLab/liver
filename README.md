@@ -1,3 +1,3 @@
-# liver
+# liver vessel segmentation
 
-The source codes and dataset will be available under acceptance of the paper.
+There have 325 folders named as "Sample-xxx" with "xxx" ranges from "001" to "325", representing the 325 CT volumes. Each folder contains three types of data, i.e., the original abdominal image contains the raw Hu values with the name "Liver-xxxx.nii", the mask of liver with the name "Liver-mask-xxxx.nii" and the mask of vessels with the name "Liver-vessel-mask-xxxx.nii". Within each folder, the number of files containing liver, liver mask and vessel mask are the same. In addition, the files with the same string of "xxxx" corresponding to the same slice. For instance, the file "Liver-0001.nii", "Liver-mask-0001.nii" and "Liver-vessel-mask-0001.nii" accounting to the same slice "0001".
