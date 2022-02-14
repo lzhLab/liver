@@ -5,7 +5,14 @@ This study present an elaborated large-volume and high-quality dataset containin
 The masked labels as well as the raw images created in this study, namely LVSD300, has been uploaded to the IEEE DataPort with [DOI:10.21227/rwys-mk84](https://ieee-dataport.org/documents/liver-vessel).
 
 # Usage
-
+how to start it?
+```
+1. Clone the repository:
+     $git clone https://github.com/lzhLab/liver.git
+     
+2. Run the main program:     
+     $python train.py <--parameters>
+```   
 ### Parameters
 
 * `num_workers`: int
@@ -36,3 +43,9 @@ The masked labels as well as the raw images created in this study, namely LVSD30
   <br>The maximum number of epoch for the current training.
 * `lr`: float
   <br>learning rate. Used to set the initial learning rate of the model.
+```  
+3. Example:  
+	$python train.py --dataset_path='dataset' batch_size='10' --max_epoch=100 --lr=1e-3
+```
+# reference
+
