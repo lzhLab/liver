@@ -47,5 +47,10 @@ how to start it?
 3. Example:  
 	$python train.py --dataset_path='dataset' batch_size='10' --max_epoch=100 --lr=1e-3
 ```
+# Citation
+If the model or LVSD300 is useful for your research, please consider citing:
+```
+
+```
 # reference
 
