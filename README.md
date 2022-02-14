@@ -32,3 +32,7 @@ The masked labels as well as the raw images created in this study, namely LVSD30
   <br>Used to set the relative path of training and validation set.
 * `batch_size`: int
   <br>Batch size.
+* `max_epoch`: int 
+  <br>The maximum number of epoch for the current training.
+* `lr`: float
+  <br>learning rate. Used to set the initial learning rate of the model.
