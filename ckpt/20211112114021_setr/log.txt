@@ -1,0 +1,22 @@
+00 train_loss:1.000e+00, train_dice:0.45742,pre_loss:1.433e-02,sur_loss:5.319e-03, val_loss:8.433e-03, val_dice:0.51618, lr:1.000e-03
+ best_dice:0.51618, voe:0.64311, rvd:1444.13159, acc:0.99654, sen:0.68257, spe:0.99889(00)
+01 train_loss:1.000e+00, train_dice:0.67830,pre_loss:1.297e-02,sur_loss:2.550e-03, val_loss:7.042e-03, val_dice:0.56396, lr:1.000e-03
+ best_dice:0.56396, voe:0.59965, rvd:869.62166, acc:0.99769, sen:0.68548, spe:0.99887(01)
+02 train_loss:1.000e+00, train_dice:0.70762,pre_loss:1.266e-02,sur_loss:2.401e-03, val_loss:7.046e-03, val_dice:0.56896, lr:1.000e-03
+ best_dice:0.56896, voe:0.59411, rvd:920.14438, acc:0.99754, sen:0.65972, spe:0.99897(02)
+03 train_loss:1.000e+00, train_dice:0.71977,pre_loss:1.252e-02,sur_loss:2.379e-03, val_loss:6.669e-03, val_dice:0.59275, lr:1.000e-03
+ best_dice:0.59275, voe:0.56795, rvd:1030.19295, acc:0.99761, sen:0.64535, spe:0.99907(03)
+04 train_loss:1.000e+00, train_dice:0.72760,pre_loss:1.245e-02,sur_loss:2.316e-03, val_loss:6.713e-03, val_dice:0.59090, lr:1.000e-03
+ best_dice:0.59275, voe:0.56795, rvd:1030.19295, acc:0.99761, sen:0.64535, spe:0.99907(03)
+05 train_loss:1.000e+00, train_dice:0.73462,pre_loss:1.237e-02,sur_loss:2.279e-03, val_loss:6.925e-03, val_dice:0.59014, lr:1.000e-03
+ best_dice:0.59275, voe:0.56795, rvd:1030.19295, acc:0.99761, sen:0.64535, spe:0.99907(03)
+06 train_loss:1.000e+00, train_dice:0.73904,pre_loss:1.232e-02,sur_loss:2.196e-03, val_loss:6.598e-03, val_dice:0.58438, lr:1.000e-03
+ best_dice:0.59275, voe:0.56795, rvd:1030.19295, acc:0.99761, sen:0.64535, spe:0.99907(03)
+07 train_loss:1.000e+00, train_dice:0.74214,pre_loss:1.228e-02,sur_loss:2.300e-03, val_loss:7.864e-03, val_dice:0.59966, lr:1.000e-03
+ best_dice:0.59966, voe:0.56012, rvd:651.02997, acc:0.99722, sen:0.64805, spe:0.99912(07)
+08 train_loss:1.000e+00, train_dice:0.74623,pre_loss:1.224e-02,sur_loss:2.135e-03, val_loss:8.777e-03, val_dice:0.57283, lr:1.000e-03
+ best_dice:0.59966, voe:0.56012, rvd:651.02997, acc:0.99722, sen:0.64805, spe:0.99912(07)
+09 train_loss:1.000e+00, train_dice:0.74838,pre_loss:1.222e-02,sur_loss:2.132e-03, val_loss:5.943e-03, val_dice:0.58197, lr:1.000e-03
+ best_dice:0.59966, voe:0.56012, rvd:651.02997, acc:0.99722, sen:0.64805, spe:0.99912(07)
+10 train_loss:1.000e+00, train_dice:0.75054,pre_loss:1.220e-02,sur_loss:2.096e-03, val_loss:7.523e-03, val_dice:0.56806, lr:1.000e-03
+ best_dice:0.59966, voe:0.56012, rvd:651.02997, acc:0.99722, sen:0.64805, spe:0.99912(07)
